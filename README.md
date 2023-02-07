@@ -5,8 +5,4 @@
 Nama: Fadhel Mohammad Dalimunthe
 
 NPM: 2108107010086
-# lab-pbw-b-fadhel-mohammad-dalimunthe
-# lab-pbw-b-fadhelmohammaddalimunthe
-# lab-pbw-b-fadhelmohammaddalimunthe
-# lab-pbw-b-fadhelmohammaddalimunthe
-# lab-pbw-b-fadhelmohammaddalimunthe
+
