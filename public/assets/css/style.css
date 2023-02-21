@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+}
+
+.conteiner{
+    display: flex;
+    margin-top: 80px;
+    flex-direction: row;
+    float: right;
+}
+
+.card {
+
+    margin-right: 20px;
+    background-color: #243642;
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    color: white;
+
+}
+
+
+
+/* Set the width of the image to 30% and add margin and padding */
+.card img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+}
+
+/* Set the width of the table to 70% */
+.table {
+    width: 55%;
+    border-collapse: collapse;
+    margin-top: 80px;
+    margin-bottom: 50px;
+    background-color: #323961;
+    float: left;
+}
+
+th,
+td {
+    padding: 10px;
+    border: 1px solid black;
+    color: white;
+}
+
+th {
+    background-color: #5e6177;
+}
+
+/* Set the background color of the body and bio elements */
+.body {
+    background-color: #92b5e9;
+}
+
+.header {
+    border-style: double;
+    background-color: rgb(126, 219, 20);
+    text-align: center;
+    top: 0;
+    left: 0;
+    position: fixed;
+    width: 100%;
+    color: darkslateblue;
+}
+
+.footer {
+    background-color: rgb(126, 219, 20);
+    text-align: center;
+    bottom: 0;
+    left: 0;
+    position: fixed;
+    width: 100%;
+    color: darkslateblue;
+}
